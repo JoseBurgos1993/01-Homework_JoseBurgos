@@ -1,6 +1,7 @@
 # Homework2_JoseBurgos
 
-# These are all my changes to the original code.
+These are all my changes to the original code.
+
 
 REMOVED .header div ul { list-style-type: none; } in style.css and added the code to .header div{}.
 It seemed unnecessary for it to have its own block when the list-style-type could be determined
