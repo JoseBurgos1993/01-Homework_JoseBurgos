@@ -1,6 +1,6 @@
 # Homework2_JoseBurgos
 
-These are all my changes to the original code.
+These are my changes to the original code.
 
 
 REMOVED .header div ul { list-style-type: none; } in style.css and added the code to .header div{}.
