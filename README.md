@@ -12,11 +12,11 @@ Add an ID for search-engine-optimization because the link at the top of the page
 
 Changed class="header" to just header. Did the same for footer. Made appropriate changes in style.css.
 
-Changed the <div> inside of the header to <nav>.
+Changed the div inside of the header to nav.
 
-Changed the class="content" to <section>.
+Changed the class="content" to section.
 
-Changed the class="benefits" to <aside>
+Changed the class="benefits" to aside
 
 Changed class="seo" to id="seo" since there is only one occurance of it. Also, in style.css,
 I changed "header h1 .seo" to just "#seo". I didn't see a need for that.
@@ -37,7 +37,7 @@ the code for the other two ID's.
 I moved the code around in style.css so that related elements are next to each other instead of being
 randomly spread around.
 
-I moved the code for the big image of all the people doing business to index.html. I removed the <div>
+I moved the code for the big image of all the people doing business to index.html. I removed the div
 and instead made it an IMG with an id="hero" rather than a class. I made the appropriate changes to style.css.
 
 I added alt attributes to all images.
